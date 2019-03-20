@@ -3,6 +3,7 @@ PS1='\[\e[36m\]\u:\w@\h$\[\e[0m\] '
 
 alias ls='ls -G'
 alias rm='rm -i'
+alias grep='grep -n'
 
 alias afeff='open -a /Applications/Adobe\ After\ Effects\ CC\ 2018/Adobe\ After\ Effects\ CC\ 2018.app/'
 alias brackets='open -a /Applications/Brackets.app/'
